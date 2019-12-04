@@ -1,4 +1,4 @@
-Name: Sankaran Shanmugavelayudam, Tejas Tundulwar, Priya Veerapaneni
+Name:  Priya Veerapaneni, Sankaran Shanmugavelayudam, Tejas Tundulwar.
 
 Project Name: SCM
 
@@ -47,4 +47,5 @@ Sample invocation and results:
 
 Extra Features: None
 
-Bugs: None detected
+Bugs
+: None detected
